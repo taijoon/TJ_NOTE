@@ -1,4 +1,22 @@
 # TJ_NOTE
+ 2015-05-05
+  - plug 수정 사항
+   움직이는 이미지 3개 완료
+   plug web 에러사항 정리 문서 완료
+
+  - IR 수정 사항
+   동작방법 재열이에게 확인
+   IR동작시 LED가 안켜짐 동작 Error 상태
+   하드웨어 정상여부 확인 필요
+
+  - RPi2 추가
+   기본 세팅을 위한 조립 완료
+
+  -TelosC 개발
+   CC2520 ActiveMessage 코드 확인
+   RF Start, Stop는 정상동작(추측)
+   RF Send, Recv는 에러
+ 
  2015-08-04 
   - plug 수정 사항
    버튼으로 Soft-ap로 변경 가능하게 해주세요.(Done)
